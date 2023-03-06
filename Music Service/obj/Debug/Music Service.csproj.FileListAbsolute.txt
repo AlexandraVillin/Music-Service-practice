@@ -1,0 +1,7 @@
+C:\Users\acolj\Desktop\programs\Music Service\bin\Debug\Music Service.exe.config
+C:\Users\acolj\Desktop\programs\Music Service\bin\Debug\Music Service.exe
+C:\Users\acolj\Desktop\programs\Music Service\bin\Debug\Music Service.pdb
+C:\Users\acolj\Desktop\programs\Music Service\obj\Debug\Music Service.csprojAssemblyReference.cache
+C:\Users\acolj\Desktop\programs\Music Service\obj\Debug\Music Service.csproj.CoreCompileInputs.cache
+C:\Users\acolj\Desktop\programs\Music Service\obj\Debug\Music Service.exe
+C:\Users\acolj\Desktop\programs\Music Service\obj\Debug\Music Service.pdb
